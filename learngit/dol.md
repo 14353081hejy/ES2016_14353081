@@ -1,3 +1,4 @@
+
 ##1.实验截图：
 ####任务一：
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3230336-46840faf742211a3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -9,6 +10,7 @@
 将3 -> 2
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3230336-ae7ff5be2ca9cac1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 2)进入相应目录，运行
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3230336-8c0261d3ec90acd5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
